@@ -1,6 +1,5 @@
 # **Projekt: Outerspace**
 
-
 # Teammitglieder
 Listen Sie hier noch einmal alle Teammitglieder auf.
 - Anastasia Chouliaras [11139952]

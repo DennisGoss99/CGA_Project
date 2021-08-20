@@ -14,6 +14,7 @@ Da wir fast immer simultan an einem Features gearbeitet haben, ist nur aufgelist
 -	WASD Tasten: Richtungsangaben
 -	T-Taste: Turbo, schnelles nach vorne fliegen
 -	F5: Kamerawechsel zwischen Orbit und first-Person View
+-	F1: Hilfemenü öffnen
 -	Mausrad: Steuerung der Entfernung zum Raumschiff(nur bei Orbit-Kamera)
 -	N: eine neues Sonnensystem wird generiert
 -	Q/E: rollen des Ruamschiffes
@@ -38,6 +39,7 @@ Da wir fast immer simultan an einem Features gearbeitet haben, ist nur aufgelist
 -	Planenten können transparente Atmosphären besitzen  
 -	Darstellung von GUI-Elementen 
 -	Darstellen eines Willkommensbildschirm [Dennis]
+-	Animationssystem
 -	Geschwindigkeitsregulierung über GUI
 -	Kamerawechsel 
 -	Die Kamera hat eine Zoom Funktion

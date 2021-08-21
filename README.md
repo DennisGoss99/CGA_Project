@@ -1,5 +1,10 @@
 # **Projekt: Outerspace**
 
+![](https://github.com/DennisGoss99/CGA_Project/tree/main/project/Application/assets/textures/gui/StartupScreen.png?raw=true "OuterspaceTitlescreen")
+
+Video:
+https://youtu.be/uEeNadJq5RM
+
 # Teammitglieder
 Listen Sie hier noch einmal alle Teammitglieder auf.
 - Anastasia Chouliaras [11139952]

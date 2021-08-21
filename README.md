@@ -28,7 +28,7 @@ Da wir fast immer simultan an einem Features gearbeitet haben, ist nur aufgelist
 -	Q/E: rollen des Ruamschiffes
 -	Z: Zoom (Mausrad hoch, runter im Zommmodus)
 -	TAB: Geschwindigkeitsregulierung [Dennis]
-
+-	Spacebar: maximale Geschwindigkeit
 
 ## Selbst modellierte Objekte (mit Blender):
 -	Planeten/Monde/Sonnen
@@ -51,7 +51,6 @@ Da wir fast immer simultan an einem Features gearbeitet haben, ist nur aufgelist
 -	Geschwindigkeitsregulierung über GUI
 -	Kamerawechsel 
 -	Die Kamera hat eine Zoom Funktion
--	Partiklesystem
 -	Entfernung, GUI-Elemente und Raketenantrieb werden in Abhängigkeit zum Kameramodus gerendert
 -	Umsetzung der Umgebung als Skybox
 -	wechsel zwischen verschiedenen shadern (GUI, Skybox, Partikel, etc...)

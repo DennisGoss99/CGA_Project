@@ -13,6 +13,13 @@ https://github.com/DennisGoss99/Prj_OuterSpace
 - Anastasia Chouliaras [11139952]
 - Dennis Goßler [11140150]
 
+# Spielidee
+
+Unser Spiel "Outer Space" ist ein Simulationsspiel, in dem der Spieler mit einem Spaceshuttel unser Sonnensystem erkunden kann.
+Der Spieler kann die Bewegung der Planeten, die realitätsnah gestaltet worden sind, beobachten und sich darin bewegen.
+Die Besonderheit des Spiels sind die zahlreichen Interaktionsmöglichkeiten die den Spieler die Umgebung beeinflussen lassen.
+Durch die verschiedenen Kameraperspektiven und die Steuerung der Geschwindigkeit in der die Planeten fliegen, sowie die Generierung neuer Sonnensysteme kann der Spieler Einfluss nehmen.
+
 # Featureliste
 
 ## Anmerkung:

@@ -1,12 +1,15 @@
 # **Projekt: Outerspace**
 
-![](https://github.com/DennisGoss99/CGA_Project/tree/main/project/Application/assets/textures/gui/StartupScreen.png?raw=true "OuterspaceTitlescreen")
+![](https://github.com/DennisGoss99/CGA_Project/blob/main/project/Application/assets/textures/gui/StartupScreen.png?raw=true "OuterspaceTitlescreen")
 
-Video:
+**Video:**
 https://youtu.be/uEeNadJq5RM
 
+**Old-Repo:**
+https://github.com/DennisGoss99/Prj_OuterSpace
+
 # Teammitglieder
-Listen Sie hier noch einmal alle Teammitglieder auf.
+
 - Anastasia Chouliaras [11139952]
 - Dennis Goßler [11140150]
 
@@ -44,7 +47,7 @@ Da wir fast immer simultan an einem Features gearbeitet haben, ist nur aufgelist
 -	Planenten können transparente Atmosphären besitzen  
 -	Darstellung von GUI-Elementen 
 -	Darstellen eines Willkommensbildschirm [Dennis]
--	Animationssystem
+-	Animationssystem [Dennis]
 -	Geschwindigkeitsregulierung über GUI
 -	Kamerawechsel 
 -	Die Kamera hat eine Zoom Funktion
@@ -83,4 +86,9 @@ Raumschiff Grundmodell
 ### Inspirationen 
 Youtube ThinMatrix Videoreihe:
 - https://www.youtube.com/playlist?list=PLRIWtICgwaX0u7Rf9zkZhLoLuZVfUksDP
+
+### Schriftarten
+
+Nasalization
+https://fonts.adobe.com/fonts/nasalization
 

@@ -18,6 +18,7 @@ https://github.com/DennisGoss99/Prj_OuterSpace
 Unser Spiel "Outer Space" ist ein Simulationsspiel, in dem der Spieler mit einem Raumschiff unser Sonnensystem erkunden kann.
 Der Spieler kann die Bewegung der Planeten, die realitätsnah gestaltet worden sind, beobachten und sich darin bewegen.
 Die Besonderheit des Spiels sind die zahlreichen Interaktionsmöglichkeiten die den Spieler die Umgebung beeinflussen lassen.
+
 Die verschiedenen Kameraperspektiven sowie die Steuerung der Geschwindigkeit in der die Planeten sich bewegen, ermöglichen dem Spieler jede Perspektive einzunehmen.
 Zusätzlich lassen sich neue Sonnensysteme generieren, sodass man die Umgebung jederzeit neu erstellen lassen kann.
 

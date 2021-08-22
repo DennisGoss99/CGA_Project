@@ -15,9 +15,13 @@ https://github.com/DennisGoss99/Prj_OuterSpace
 
 # Spielidee
 
-Unser Spiel "Outer Space" ist ein Simulationsspiel, in dem der Spieler mit einem Spaceshuttel unser Sonnensystem erkunden kann.
+Unser Spiel "Outer Space" ist ein Simulationsspiel, in dem der Spieler mit einem Raumschiff unser Sonnensystem erkunden kann.
 Der Spieler kann die Bewegung der Planeten, die realitätsnah gestaltet worden sind, beobachten und sich darin bewegen.
 Die Besonderheit des Spiels sind die zahlreichen Interaktionsmöglichkeiten die den Spieler die Umgebung beeinflussen lassen.
+
+Die verschiedenen Kameraperspektiven sowie die Steuerung der Geschwindigkeit in der die Planeten sich bewegen, ermöglichen dem Spieler jede Perspektive einzunehmen.
+Zusätzlich lassen sich neue Sonnensysteme generieren, sodass man die Umgebung jederzeit neu erstellen lassen kann.
+
 Durch die verschiedenen Kameraperspektiven und die Steuerung der Geschwindigkeit in der die Planeten fliegen, sowie die Generierung neuer Sonnensysteme kann der Spieler Einfluss nehmen.
 
 # Featureliste
@@ -64,6 +68,10 @@ Da wir fast immer simultan an einem Features gearbeitet haben, ist nur aufgelist
 -	Multitexturing bei Planeten (z.B. die Woleken der Erde)
 -	Animation des Raketenantriebs mit 2D- Partikeln 
 -	in Abhängigkeit vom Kameramodus
+
+# Änderungen zum Exposé
+Wie bereits Angemerkt wurde sind die Begriffe Orbit- und 3rd-Person Kamera Synonyme.
+Es wurden natürlich zwei verschiede Kameras implementiert, eine 1st-Person und eine 3rd-Person Kamera.
 
 ## Quellen:
 
